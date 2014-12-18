@@ -1,0 +1,10 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "pbls\\statbar.pbl" "";
+@end;
+@begin Objects
+ "pbls\\n_cst_winsrv_response_resize_srv.sru" "pbls\\statbar.pbl";
+ "pbls\\n_cst_winsrv_native_statusbar_srv.sru" "pbls\\statbar.pbl";
+ "pbls\\w_statbar.srw" "pbls\\statbar.pbl";
+ "pbls\\statbar.sra" "pbls\\statbar.pbl";
+@end;
