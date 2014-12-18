@@ -18,6 +18,7 @@ Function long DrawMenuBar(ulong hWnd) library "user32.dll"
 Function long SetWindowPos(long hWnd, long hWndInsertAfter, int newX, int newY, int newWidth, int newHeight, uint uFlags) library "user32.dll"
 
 end prototypes
+
 type variables
 PRIVATE:
 
